@@ -1,0 +1,13 @@
+Linear Regression
+Mean:  5.030201601786359
+Standard deviation:  1.0613529860017419
+
+Decision tree regression
+Mean:  4.179768230154886
+Standard deviation:  0.8203251025631201
+
+Random forest regression
+Mean:  3.292315317517513
+Standard deviation:  0.6464516607873124
+
+Random forest outperform the other two regession algorithms
